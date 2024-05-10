@@ -1,0 +1,8 @@
+[submodule "xdr/next"]
+	path = xdr/next
+	url = https://github.com/hcnet/hcnet-xdr
+	branch = next
+[submodule "xdr/curr"]
+	path = xdr/curr
+	url = https://github.com/hcnet/hcnet-xdr
+	branch = curr
